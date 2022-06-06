@@ -150,6 +150,7 @@ button{
     outline: none;
     transform: translateY(0px);
     color: #fff;
+    border-radius: 8px;
 }
 canvas{
     position: absolute;
