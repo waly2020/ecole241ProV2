@@ -58,12 +58,6 @@
         top: 48%;
     }
 }
-@media (max-width: 494px){
-    #cta{
-        top: inherit;
-        bottom: 20%;
-    }
-}
 @media (max-width: 446px){
     .texte{
         padding: 0 15px;
@@ -73,7 +67,7 @@
     }
     #cta{
         top: inherit;
-        bottom: 20%;
+        bottom: 10%;
     }
 }
 @media (max-width: 290px){
