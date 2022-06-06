@@ -61,7 +61,7 @@
 @media (max-width: 494px){
     #cta{
         top: inherit;
-        bottom: 25%;
+        bottom: 20%;
     }
 }
 @media (max-width: 446px){
@@ -73,7 +73,7 @@
     }
     #cta{
         top: inherit;
-        bottom: 40%;
+        bottom: 20%;
     }
 }
 @media (max-width: 290px){
