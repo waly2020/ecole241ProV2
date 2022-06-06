@@ -1,0 +1,50 @@
+@media (max-width: 1350px){
+    .texte{
+        padding: 0 15px;
+    }
+}
+@media (max-width: 700px){
+    header{
+        width: 100%;
+        height: 100%;
+    }
+    .texte{
+        padding: 0 15px;
+    }
+    .texte h1{
+        font-size: 2.8em;
+    }
+    .texte p{
+        font-size: 1em;
+    }
+}
+@media (max-width: 588px){
+    .texte{
+        padding: 0 15px;
+    }
+    .texte h1{
+        font-size: 2.8em;
+    }
+    .texte p{
+        font-size: 1em;
+    }
+    #cta{
+        top: inherit;
+        bottom: 20px;
+    }
+}
+@media (max-width: 446px){
+    .texte{
+        padding: 0 15px;
+    }
+    .texte h1{
+        font-size: 2em;
+    }
+    .texte p{
+        font-size: 0.8em;
+    }
+    #cta{
+        top: inherit;
+        bottom: 20px;
+    }
+}
