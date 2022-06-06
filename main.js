@@ -5,9 +5,9 @@ function animeBalle (){
     if(balle.x > button.offsetWidth - balle.radius || balle.x < button.offsetLeft + balle.radius){
         vx *= -1;
     }
-    if(balle.y > button.offsetTop - balle.radius){
+    if(balle.y > button.offsetTop - 7){
         vy *= -1;
-        balle.y = button.offsetTop - balle.radius;
+        balle.y = button.offsetTop - 7;
         button.classList.add("active");
     }
     else{
